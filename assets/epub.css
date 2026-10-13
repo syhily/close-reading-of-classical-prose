@@ -314,11 +314,12 @@ h3 {
   margin-left: 0.5em;
 }
 
-/* 四级：节内小标题（如「问题8」「一、××」），靠左黑体，不进目录 */
+/* 四级：篇内小节标题（如「一、八个层次的美」、裸序号「一」），居中黑体，不进目录 */
 h4 {
   font-size: 1.02em;
   font-weight: bold;
   text-indent: 0;
+  text-align: center;
   color: #333;
   margin: 1.3em 0 0.4em;
 }
